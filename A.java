@@ -9,4 +9,7 @@ class A{
 
   int y = 10001;
 
+  String name = "mohan";
+  int age = 22;
+  float marks = 98.42f;
 }
