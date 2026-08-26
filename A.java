@@ -11,4 +11,5 @@ class A{
 
   String name = "mohan";
   int age = 22;
+  float marks = 98.42f;
 }
