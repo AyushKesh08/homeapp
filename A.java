@@ -9,4 +9,6 @@ class A{
 
   int y = 10001;
 
+  String name = "mohan";
+  
 }
